@@ -1,7 +1,0 @@
-vf worldState
-vfd worldState fieldPolygons
-
-vfd worldState cognition:Reset
-vfd worldState fieldLines
-vfd worldState goalFrame
-vfd worldState behavior:Tactic:voronoiDiagram
